@@ -23,8 +23,4 @@ The Power BI Dashboard includes several key features, including:
 
 ## Data Sources
 
-The data displayed in this dashboard comes from [insert data source(s) used]. The dashboard may be updated periodically to reflect changes in the underlying data.
-
-## Feedback and Support
-
-If you have any feedback or questions about this Power BI Dashboard, please contact [insert contact information for dashboard owner]. We welcome your input and suggestions for improving this tool.
+The data displayed in this dashboard comes from Learnit Projects. The dashboard may be updated periodically to reflect changes in the underlying data.
