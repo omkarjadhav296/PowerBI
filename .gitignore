@@ -12,7 +12,7 @@ bin-release/
 *.air
 *.ipa
 *.apk
-*.pptx
+# *.pptx
 *.xlsx
 *.html
 *.pbix
